@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/CLionProjects/DictTreePro/collection/map.h
+
+/Users/admin/CLionProjects/DictTreePro/main.c
+stdio.h
+-
+stdlib.h
+-
+util/util.h
+/Users/admin/CLionProjects/DictTreePro/util/util.h
+collection/map.h
+/Users/admin/CLionProjects/DictTreePro/collection/map.h
+errno.h
+-
+
+/Users/admin/CLionProjects/DictTreePro/util/util.h
+stdlib.h
+-
+string.h
+-
+
